@@ -15,7 +15,7 @@ const Header: React.FC = () => {
         </div>
         <div className="mailimg">
         <img
-          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNJApF8rvLKSHZ2YuJ2bn7bdMIovFRVbSDuTRZ1-ghEqmR5IeY"/></div>
+          src="https://i.imgur.com/hTbbsui.png"/></div>
       </div>
     </header>
   );
